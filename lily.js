@@ -1,4 +1,4 @@
-const Lily = require('./lily.js');
+const Lily = require('./engine.js');
 
 var argv = process.argv;
 var i = 2, numbers = [];

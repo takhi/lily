@@ -89,4 +89,4 @@ Lily.prototype.combinator = function(numbers, target, chain) {
     }
 }
 
-exports.Lily;
+module.exports = Lily;
