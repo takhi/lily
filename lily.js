@@ -8,7 +8,7 @@ for (; i < argv.length - 1; i++) {
 }
 
 if (numbers.length <= 2) {
-    console.log('Find arithmetic expressions that equal a target number.\n');
+    console.log('Find arithmetic expressions that equals a target number.\n');
     console.log('LILY [set of (>= 2) numbers] [target number]');
 } else {
     var lily = new Lily(numbers);
